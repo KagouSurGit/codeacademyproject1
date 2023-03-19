@@ -2,4 +2,4 @@
 
 idea of project is who wants to be a millionaire using Python3
 
-I wanna practice Object-Oriented Programming.
+It's my first project so the code isn't really a pythonic code.
